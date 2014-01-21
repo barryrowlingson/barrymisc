@@ -1,0 +1,4 @@
+barrymisc
+=========
+
+Miscellaneous R Snippetry
