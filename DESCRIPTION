@@ -1,8 +1,9 @@
 Package: barrymisc
-Title: 
+Title: Barry's Misc Functions
 Description: 
 Version: 0.1
-Authors@R: # getOptions('devtools.desc.author')
+Maintainer: Barry Rowlingson <b.rowlingson@gmail.com>
+Author: Barry Rowlingson
 Depends: R (>= 3.0.1)
-License: # getOptions('devtools.desc.license')
+License: MIT License
 LazyData: true
